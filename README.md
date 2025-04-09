@@ -5,16 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ml,dl,GenAI
-- 🌱 I’m currently learning AIML
-- 👯 I’m looking to collaborate on ML projects
-- 🤔 I’m looking for help with GenAI
-- 💬 Ask me about c,c++,java.python,linux
-- 📫 How to reach me: 
-- ⚡ Fun fact: I am here to create every area my own arena.
+- 
 -->
 # 💫 About Me:
 🧑‍🦰I am currently working on ML,DL,GenAI<br>👨‍💼Pursuing B.tech from UPES.<br>
+🔭 I’m currently working on ml,dl,GenAI<br>
+- 🌱 I’m currently learning AIML<br>
+- 👯 I’m looking to collaborate on ML projects<br>
+- 🤔 I’m looking for help with GenAI<br>
+- 💬 Ask me about c,c++,java.python,linux<br>
+- 📫 How to reach me: <br>
+- ⚡ Fun fact: I am here to create every area my own arena.<br>
 
 
 ## 🌐 Socials:
