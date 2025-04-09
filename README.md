@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🧑‍🦰I am currently working on ML,DL,GenAI<br>👨‍💼Pursuing B.tech from UPES.<br>
-🔭 I’m currently working on ml,dl,GenAI<br>
+
 - 🌱 I’m currently learning AIML<br>
 - 👯 I’m looking to collaborate on ML projects<br>
 - 🤔 I’m looking for help with GenAI<br>
